@@ -1,0 +1,29 @@
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\bin\Debug\CinemaWorld.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\bin\Debug\CinemaWorld.exe
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\bin\Debug\CinemaWorld.pdb
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.AdminHome.resources
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.exe
+c:\users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.pdb
+C:\Users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.UserHome.resources
+C:\Users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.CreateUser.resources
+C:\Users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.ChangePassword.resources
+C:\Users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.DeleteUser.resources
+C:\Users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.EditMovie.resources
+C:\Users\acer\documents\visual studio 2013\Projects\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.GenerateReports.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.csprojResolveAssemblyReference.cache
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.AdminHome.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.ChangePassword.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.CreateUser.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.DeleteUser.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.EditMovie.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.Form1.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.GenerateReports.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.Properties.Resources.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.UserHome.resources
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.csproj.GenerateResource.Cache
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.exe
+D:\Tharushi\All Documents\Uni\NIBM\CinemaWorld\CinemaWorld\obj\Debug\CinemaWorld.pdb
